@@ -1,21 +1,13 @@
-<div align="center">
-<img src="https://res.cloudinary.com/dnfslkgiv/image/upload/v1731368256/f5runfefkq1ccmqtiyqv.png" align="center" style="width: 100%" />
-</div>  
+# <div align="center">Hi👋, I'm Giuliano Nissero</div>  
   
 
-### <div align="center">Hi👋, I'm Giuliano Nissero</div>  
+### <div align="center">🔭 I’m currently working on Backend aplications.</div>  
   
 
-<div align="center">🔭 I’m currently working on Backend aplications.</div>  
+### <div align="center">🌱 I’m currently learning Backend technologies.</div>  
   
 
-<div align="center">🌱 I’m currently learning Backend technologies.</div>  
-  
-
-<div align="center"></div>  
-  
-
-<div align="center">📫How to reach me:</div>  
+### <div align="center">📫How to reach me:</div>  
   
 
 <div align="center">
@@ -99,3 +91,9 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=NGiulianoNissero&&style=flat-square" align="center" />
+</div>  
+
+<br />
